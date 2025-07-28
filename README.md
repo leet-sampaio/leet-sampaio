@@ -11,28 +11,21 @@
 Hi! My name is Letícia, I'm 18 years old and I live in Curitiba - PR, Brazil. I'm a student of **Systems Analysis and Development at POSITIVO**, and I work as a backend developer focusing on technologies like **Java, C#, PHP, and Python**.
 
 ---
-<br>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/leet-sampaio/leet-sampaio/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/leet-sampaio/leet-sampaio/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/leet-sampaio/leet-sampaio/output/pacman-contribution-graph.svg">
-</picture>
-
-###
----
 
 ## 🛠️ Technologies & Tools
 
-## Tecnologias e linguagens 💻
+## 🧠 Backend Languages & Technologies
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,c,cpp,java,docker)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,python,php,dotnet,nodejs,ruby,go,rust)](https://skillicons.dev)
 
-### 🚀 Frameworks e bibliotecas
-[![My Skills](https://skillicons.dev/icons?i=react,nodejs,vite,spring,mysql,postgres)](https://skillicons.dev)
+### ⚙️ Frameworks & Libraries
 
-### 🛠️ Ferramentas de desenvolvimento
-[![My Skills](https://skillicons.dev/icons?i=git,github,figma,vscode,postman)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=spring,django,laravel,express,nest)](https://skillicons.dev)
+
+### 🛠️ Development Tools
+
+[![My Skills](https://skillicons.dev/icons?i=git,github,postman,vscode,figma)](https://skillicons.dev)
+
 ---
 
 ## 📊 Stats
