@@ -54,9 +54,7 @@ Hi! My name is Letícia, I'm 18 years old and I live in Curitiba - PR, Brazil. I
 ---
 
 <p align="center">
-  <i>"Technology moves the world, but it's curiosity that drives it." 🚀</i>
+  <i>"Technology moves the world, but it's curiosity that drives it."</i>
 </p>
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:e61c9b,100:10002B"/>
-
-
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:#e6b7c1,100:#f7e7ce"/>
