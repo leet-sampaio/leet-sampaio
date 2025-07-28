@@ -18,13 +18,17 @@ Hi! My name is Letícia, I'm 18 years old and I live in Curitiba - PR, Brazil. I
 
 [![My Skills](https://skillicons.dev/icons?i=java,python,php,dotnet,nodejs,ruby,go,rust)](https://skillicons.dev)
 
-### ⚙️ Frameworks & Libraries
+---
 
-[![My Skills](https://skillicons.dev/icons?i=spring,django,laravel,express,nest)](https://skillicons.dev)
+## ⚙️ Frameworks & Libraries
 
-### 🛠️ Development Tools
+[![My Skills](https://skillicons.dev/icons?i=spring,django,laravel,express,phoenix)](https://skillicons.dev)
 
-[![My Skills](https://skillicons.dev/icons?i=git,github,postman,vscode,figma)](https://skillicons.dev)
+---
+
+## 🛠️ Development Tools
+
+[![My Skills](https://skillicons.dev/icons?i=git,postman,vscode,docker)](https://skillicons.dev)
 
 ---
 
