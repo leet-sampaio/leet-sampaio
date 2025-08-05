@@ -14,7 +14,7 @@ Hi! My name is Letícia, I'm 18 years old and I live in Curitiba - PR, Brazil. I
 
 ## 🧠 Backend Languages & Technologies
 
-[![My Skills](https://skillicons.dev/icons?i=java,cs,python,php,js,mysql,cpp,nodejs,dotnet)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,cs,python,php,js,cpp,nodejs,dotnet)](https://skillicons.dev)
 
 
 ## 🛠️ Development Tools
@@ -51,4 +51,5 @@ Hi! My name is Letícia, I'm 18 years old and I live in Curitiba - PR, Brazil. I
   <i>"Technology moves the world, but it's curiosity that drives it."</i>
 </p>
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:ff6eb4,50:e61c9b,100:cc237d"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:fff176,50:ffd54f,100:ffb300"/>
+
